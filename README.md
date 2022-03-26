@@ -5,9 +5,11 @@
 
 <!-- Here are some ideas to get you started: -->
 - 😄 I'm Yang
-- 🤔 I am a master's student at Technical University of Munich, Germany
-- 🌱 I finished my bachelor at RWTH Aachen University, Germany
+- 🤔 I am a master's student at Technical University of Munich
+- 🌱 I finished my bachelor at RWTH Aachen University
 - 🔭 My research interest is trustworthy ML (mainly explainability)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yang-zhang-ml)
+- ⚡ Why a ghost? Ghosts in Pac-Man are the first game AIs
 <!-- - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...

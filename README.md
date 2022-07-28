@@ -9,7 +9,7 @@
 - 😄 I did the master at **Technical University of Munich**
 - 🌱 I finished my bachelor at **RWTH Aachen University**
 - 🔭 My research interest is trustworthy ML (mainly explainability)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yang-zhang-ml)
+- 📫 How to reach me: yang.zhang@comp.nus.edu.sg or [LinkedIn](https://www.linkedin.com/in/yang-zhang-ml)
 - ⚡ Why a ghost? Ghosts in Pac-Man are the first game AIs
 <!-- - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...

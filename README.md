@@ -8,7 +8,7 @@
 - 🤔 I am a PhD student at **National University of Singapore**
 - 😄 I did the master at **Technical University of Munich**
 - 🌱 I finished my bachelor at **RWTH Aachen University**
-- 🔭 My research interest are diffusion models and efficient model training/inference
+- 🔭 My research interest are attention-based models (diffusion models & LLMs) and efficient model training/inference
 - 📫 How to reach me: yang.zhang@comp.nus.edu.sg or [LinkedIn](https://www.linkedin.com/in/yang-zhang-ml)
 - ⚡ Why a ghost? Ghosts in Pac-Man are the first game AIs
 <!-- - 👯 I’m looking to collaborate on ...
